@@ -64,5 +64,3 @@ class EditUser extends LitElement {
 }
 customElements.define('edit-user', EditUser);
 
-}
-customElements.define('edit-user', EditUser);
